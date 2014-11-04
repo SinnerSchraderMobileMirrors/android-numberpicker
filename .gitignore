@@ -15,6 +15,11 @@ library/*
 !library/project.properties
 !library/pom.xml
 
+#gradle
+!library/gradle/
+!library/gradle*
+!library/build.gradle
+
 !samples/
 samples/*
 !samples/src/
